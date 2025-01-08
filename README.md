@@ -12,5 +12,6 @@
   - Accident History
   - Manufacturing Year(year)
   - Price(million won)<br>
-◾Host: DACON
+  
+◾Host: DACON<br>
 ◾Link: https://dacon.io/competitions/official/236424/overview/description
