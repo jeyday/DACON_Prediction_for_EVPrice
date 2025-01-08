@@ -14,7 +14,5 @@ RMSE(Root Mean Squared Error)<br>
   - Manufacturing Year(year)
   - Price(million won)<br>
   
-### Host<br>
-DACON<br>
 ### Contest Link<br>
 https://dacon.io/competitions/official/236424/overview/description
