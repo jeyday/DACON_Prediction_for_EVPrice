@@ -1,5 +1,6 @@
 ## Contest: Development of AI algorithms to predict electric vehicle prices using data related to electric vehicles
-### Evaluation<br>RMSE(Root Mean Squared Error)<br>
+### Evaluation<br>
+RMSE(Root Mean Squared Error)<br>
 ### Data
   - ID
   - Manufacturer
@@ -13,5 +14,7 @@
   - Manufacturing Year(year)
   - Price(million won)<br>
   
-### Host<br>DACON<br>
-### Contest Link<br>https://dacon.io/competitions/official/236424/overview/description
+### Host<br>
+DACON<br>
+### Contest Link<br>
+https://dacon.io/competitions/official/236424/overview/description
